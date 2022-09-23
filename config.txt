@@ -1,0 +1,13 @@
+{
+"app_id": "wxa205ff17265eebad"，
+"app_secret": "4339ad0d501c497049c335d57d5e2bef"，
+"template_id": "68hXAN7X332ovOMsFmDJa9sXC_MwX2URnHcR9J5a3sM"，
+"user": ["oiExs5v4lWnBFU8xsWB0FDCqfrzI"]，
+"weather_key": "14ca60081fd648e4837c3811249f861e"，
+"region": "江门市"，
+"birthday1": {"name": "敏敏"， "birthday": "2004-05-28"}，
+"birthday2": {"name": "涛涛"，"birthday": "2003-06-17"}，
+"love_date": "2022-06-09"，
+"note_ch": ""，
+"note_en": ""
+}
